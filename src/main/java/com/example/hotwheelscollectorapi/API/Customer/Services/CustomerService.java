@@ -16,7 +16,7 @@ public class CustomerService {
                         "John",
                         "Smith",
                         "chicasjosee24@gmail.com",
-                        "password",
+                        "passwords",
                         "1234567890",
                         LocalDate.of(2000, 11, 9),
                         LocalDate.now(),
